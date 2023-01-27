@@ -1,0 +1,7 @@
+Redux - storing all the states in "store"
+
+Terminology
+-----------
+
+Store - state management
+Action - CRUD operation
